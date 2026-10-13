@@ -1,0 +1,24 @@
+CATÁLOGO DE MODA — PRÉVIA FUNCIONAL
+
+Como abrir
+1. Extraia o arquivo ZIP.
+2. Abra index.html em um navegador.
+
+O que já funciona nesta prévia
+- Catálogo responsivo com busca, categorias e ordenação por preço.
+- Página de produto com tamanhos, cores e quantidade em estoque.
+- Sacola com escolha de entrega ou retirada.
+- Mensagem de pedido montada para abrir no WhatsApp.
+- Painel de demonstração para cadastrar, editar e excluir produtos, estoque, preços, promoções e vídeo do produto.
+- Configuração de nome da loja, WhatsApp e taxa de entrega demonstrativa.
+
+Acesso de demonstração
+- Abra “Área da loja” no cabeçalho.
+- Senha: loja123
+- O WhatsApp inicial é um número de exemplo. Troque-o no painel antes de testar o envio.
+
+Importante
+Esta versão guarda alterações somente no armazenamento do navegador em que foi aberta.
+Para a loja operar de verdade, será necessário ligar o painel a um banco de dados seguro,
+configurar o WhatsApp correto e decidir como calcular as taxas de entrega. Fotos e vídeos
+reais dos produtos também devem substituir os exemplos.
